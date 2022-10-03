@@ -162,7 +162,7 @@ p {
 
 /* banner properties and background image */
 .banner {
-  /* background-image: url("./images/coding_bg.jpg"); */
+  background-image: url("./images/coding_bg.jpg");
   background-size: cover;
   background-position: center;
   min-height: 280px;
@@ -219,28 +219,28 @@ p {
 
 /* load project images */
 .adventure_game {
-  /* background-image: url("./images/adventure.jpg");  */
+  background-image: url("./images/adventure.jpg"); 
   background-size: cover;
 }
 
 .reservation {
-  /* background-image: url("./images/restaurant.jpg");  */
+  background-image: url("./images/restaurant.jpg"); 
   background-size: cover; 
 }
 
 
 .group_project {
-  /* background-image: url("./images/group.jpg");  */
+  background-image: url("./images/group.jpg"); 
   background-size: cover; 
 }
 
 .store {
-  /* background-image: url("./images/store.jpg");  */
+  background-image: url("./images/store.jpg"); 
   background-size: cover; 
 }
 
-/* .password { */
-  /* background-image: url("./images/Screenshot.png");  * /
+.password {
+  background-image: url("./images/password.jpg");  
   background-size: cover; 
 }
 /* end of porject images */
