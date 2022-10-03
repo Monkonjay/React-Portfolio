@@ -1,7 +1,7 @@
 import './App.css';
 import gradImg from './images/webmaster.jpg';
-import bannerImg from './images/banner.jpg';
-// import {Route, Switch} from 'react-router-dom';
+import resume from './images/resume-sample.pdf';
+
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           <nav>
             <a href="#profile">About Me</a>
             <a href="#portfolio">Projects</a>           
-            <a href="assets/images/resume-sample.pdf" target="_blank">Resume</a>           
+            <a href={resume} target="_blank">Resume</a>           
             <a href="#contact">Contact Me</a>
           </nav>
         </header>   
@@ -50,10 +50,10 @@ function App() {
                   <span>jQuery</span>
                 </div>
               </a> 
-              <a href="./under_construction.html" target="blank_" className="project store">
+              <a href="https://monkonjay.github.io/Weather-Dashboard/" target="blank_" className="project weather">
                 <div className="project_description">
-                  <h3>Online Store</h3>
-                  <span>HTML, CSS, Javascript</span>
+                  <h3>Weather Dashboard</h3>
+                  <span>API, Javascript</span>
                 </div>
               </a> 
               <a href="https://monkonjay.github.io/Password-Generator/" target="blank_" className="project password">
