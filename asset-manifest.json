@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.18df844f.css",
-    "main.js": "/React-Portfolio/static/js/main.40392074.js",
+    "main.css": "/React-Portfolio/static/css/main.43e06434.css",
+    "main.js": "/React-Portfolio/static/js/main.9f01eb38.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/group.jpg": "/React-Portfolio/static/media/group.24b6732f9e0b9edf38b7.jpg",
     "static/media/adventure.jpg": "/React-Portfolio/static/media/adventure.0fbdd6a3cda3bd34ede7.jpg",
     "static/media/coding_bg.jpg": "/React-Portfolio/static/media/coding_bg.ae29010e4c83d6ed397b.jpg",
-    "static/media/store.jpg": "/React-Portfolio/static/media/store.44575e7d6d9eac0312bc.jpg",
-    "static/media/banner.jpg": "/React-Portfolio/static/media/banner.9e30f8f36e826981c668.jpg",
+    "static/media/resume-sample.pdf": "/React-Portfolio/static/media/resume-sample.319621c1daf1ebe7b551.pdf",
     "static/media/restaurant.jpg": "/React-Portfolio/static/media/restaurant.d52c4b0d7cb532d0d281.jpg",
+    "static/media/weather.jpg": "/React-Portfolio/static/media/weather.6c3d1a14cfcf98c02019.jpg",
     "static/media/password.jpg": "/React-Portfolio/static/media/password.40dff58f0b562048228c.jpg",
     "static/media/webmaster.jpg": "/React-Portfolio/static/media/webmaster.e71907c3baa95c64555b.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.18df844f.css.map": "/React-Portfolio/static/css/main.18df844f.css.map",
-    "main.40392074.js.map": "/React-Portfolio/static/js/main.40392074.js.map",
+    "main.43e06434.css.map": "/React-Portfolio/static/css/main.43e06434.css.map",
+    "main.9f01eb38.js.map": "/React-Portfolio/static/js/main.9f01eb38.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18df844f.css",
-    "static/js/main.40392074.js"
+    "static/css/main.43e06434.css",
+    "static/js/main.9f01eb38.js"
   ]
 }
